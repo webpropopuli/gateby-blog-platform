@@ -1,0 +1,42 @@
+{
+  "name": "priority-premium",
+  "description": "Gatsby default starter",
+  "version": "2.0.0",
+  "author": "Marlowe",
+  "dependencies": {
+    "express-graphql": "^0.7.1",
+    "gatsby": "^2.0.76",
+    "gatsby-plugin-manifest": "^2.0.9",
+    "gatsby-plugin-offline": "^2.0.16",
+    "gatsby-plugin-react-helmet": "^3.0.2",
+    "gatsby-plugin-sass": "^2.0.7",
+    "graphql": "^14.1.1",
+    "graphql-tools": "^4.0.4",
+    "node-sass": "^4.11.0",
+    "npm-force-resolutions": "0.0.2",
+    "prebuild-install": "^5.2.4",
+    "react": "^16.6.3",
+    "react-dom": "^16.6.3",
+    "react-helmet": "^5.2.0",
+    "react-images": "^0.5.19"
+  },
+  "keywords": [
+    "gatsby"
+  ],
+  "resolutions": {
+    "graphql": "^14.1.1",
+    "graphql-tools": "^4.0.4"
+  },
+  "license": "MIT",
+  "scripts": {
+    "build": "gatsby build",
+    "dev": "gatsby develop",
+    "start": "npm run develop",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": ""
+  }
+}
